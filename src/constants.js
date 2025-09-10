@@ -48,7 +48,7 @@ import githubgapsapLogo from './assets/work_logo/github_gapsap.png';
 import vastraaLogo from './assets/work_logo/Vastraa.png';
 import movierecLogo from './assets/work_logo/movie_rec.png';
 import taskremLogo from './assets/work_logo/task_rem.png';
-import npmLogo from './assets/work_logo/npm.png';
+import aicareer from './assets/work_logo/npm.png';
 import webverLogo from './assets/work_logo/web_dig.png';
 import cmLogo from './assets/work_logo/cm.png';
 import imagesearchLogo from './assets/work_logo/image_search.png';
@@ -219,16 +219,16 @@ export const SkillsInfo = [
       github: "https://github.com/Biswa8260/Animated-Birthday.git",
       webapp: "https://animated-birthday.onrender.com/",
     },
-    // {
-    //   id: 3,
-    //   title: "Email Validator NPM Package",
-    //   description:
-    //     "An efficient and customizable NPM package for validating email addresses. Built using React.js and Node.js, it provides robust validation features to help developers ensure that email inputs meet required formats and standards.",
-    //   image: npmLogo,
-    //   tags: ["React JS", "Node.js", "NPM", "Validation"],
-    //   github: "https://github.com/codingmastr/cmtk-email-validator",
-    //   webapp: "https://www.npmjs.com/package/cmtk-email-validator",
-    // },
+    {
+      id: 3,
+      title: "AI-CAREER-COACH",
+      description:
+        "An efficient ai career coach web application that leverages AI to provide personalized career guidance and help building ATS friendly resume and cover letter. It also help for preparing for interviews for tech and many more also.",
+      image: aicareer,
+      tags: ["Html","Tailwind css","Next.JS","java script","Clerk","Neon database","Inngest", "Node.js","Shadcn ui"],
+      github: "https://github.com/Biswa8260/ai-career-coach.git",
+      webapp: "https://ai-career-coach-wheat-seven.vercel.app/",
+    },
     // {
     //   id: 4,
     //   title: "Task Reminder Chrome Extension Tool",
